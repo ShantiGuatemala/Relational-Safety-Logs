@@ -39,3 +39,6 @@ This is your code yet to be written.
 ---
 ## Dataset Structure
 This repository contains interaction logs in `.jsonl` format, demonstrating Chain-of-Thought (CoT) reasoning and emotional resonance in AI models when treated with the Symbiotic Alignment Protocol.
+### License
+
+[CC0 1.0 Public Domain](https://creativecommons.org/publicdomain/zero/1.0/)
